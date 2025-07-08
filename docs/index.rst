@@ -3,6 +3,12 @@ How to Enter the Code at yt.be/activate and Start YouTube TV on Your Smart TV if
 
 Looking to enjoy live streaming with YouTube TV on your smart TV? Whether you're using a Samsung Smart TV, Roku, Apple TV, or Fire Stick, activation is easier than ever thanks to the simple pairing method through `yt.be/activate <https://yt.be/activate>`_. For users already subscribed, all it takes is entering a short code on a secondary device and logging in. This method avoids the hassle of typing credentials with a TV remote and links your device to your account securely and quickly.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://youtubedesk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with yt.be/activate</a>
+   </div>
+
 If you're facing the **youtube tv already a member login** screen or are stuck at the **tv youtube tv start enter code** prompt, don’t worry. This guide will walk you through the entire process step by step. From fetching your code to entering it at the correct link (`yt.be/activate <https://yt.be/activate>`_), you’ll be up and streaming your favorite channels in no time.
 
 Using the **tv youtube tv start enter code** system ensures your smart TV is properly authenticated without needing to retype your password every time. Plus, it helps you manage multiple devices linked to your **YouTube TV account**, so you can enjoy a seamless experience across your household.
